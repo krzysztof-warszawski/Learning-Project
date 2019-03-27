@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+    margin: 0 !important;
+}
+.logo {
+    width: 100%;
+    background: #a70a0a;
+    text-align: center
+}
+.LogoText {
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    padding-bottom: 35px;
+}
+.navigation {
+    width: 20%;
+    float: left;
+    text-align: center;
+    background-color: #af9494;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul a {
+    text-decoration: none;
+    display: block;
+}
+ul > li {
+    background-color: darkgray;
+}
+.content {
+    width: 50%;
+    float: left;
+}
+.table {
+    width: 30%;
+    float: left;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+td, th {
+    border: 1px solid black;
+    padding: 2px 10px 15px 5px;
+}
+.tr1 {
+    color: darkred
+}
+.tr2 {
+    color: green
+}
+.footer {
+    background-color: dimgray;
+    clear: both;
+}
+.footer_p {
+    margin: 0;
+}
+
+
